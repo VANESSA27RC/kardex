@@ -2,7 +2,7 @@
 <tr>
 	<td width="100%" align="center">
 		<br /><br />
-		<strong>Leidy Vanessa Ramirez</strong>
+		<strong>Leidy Vanessa Ramirez Cabra</strong>
 		<br /><br />
 		<strong>&copy; 2021-1 - Bases de Datos Contables y Financieras</strong>
 		<br /><br />
