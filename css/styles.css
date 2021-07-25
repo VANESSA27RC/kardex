@@ -1,0 +1,121 @@
+body{
+	font-size: 11px;	
+	color: #000000;
+	background-color:#999999;
+	font-family: Arial, Tahoma, sans-serif;	
+	margin: 0px;	
+}
+
+a{
+	color:#000000;
+}
+a:hover{
+	color:rgb(0, 0, 0);	
+}
+.myButton {
+	box-shadow:inset 0px 1px 2px 2px #bb5400;
+	background:linear-gradient(to bottom, #e68b15 5%, #fac85b 100%);
+	background-color:#d36d0e;
+	border-radius:6px;
+	border:1px solid #e79908;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f1ad75 5%, #fccc85 100%);
+	background-color:#ffc895;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.titulo{
+	font-size:20px;
+	color:#000000;	
+}
+.titulo2 {
+	width: 200px;
+	text-align: center;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	background-image: url('../images/fondo_menu.jpg');
+	border: 1px solid #C3C3C3;
+	font-size: 12px;
+	font-weight: bold;
+	color: #777777;
+}
+H1 
+{
+	background-color: #E0ECE0;
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #E0B17D;
+	width: 95%;
+	padding: 15px;
+	text-align: center;
+}
+H2
+{
+	font-size: 14px;
+	font-weight: bold;
+	border-bottom: 1px solid #E0B17D;
+}
+table.tablaverde {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    border: 2px solid #4F7849;
+    background-color: #EEEEEE;
+    text-align: center;
+    border-collapse: collapse;
+  }
+  table.tablaverde td, table.tablaverde th {
+    border: 1px solid #4F7849;
+    padding: 3px 2px;
+  }
+  table.tablaverde tbody td {
+    font-size: 19px;
+    font-weight: bold;
+    color: #4F7849;
+  }
+  table.tablaverde tr:nth-child(even) {
+    background: #CEE0CC;
+  }
+  table.tablaverde thead {
+    background: #3DCB40;
+    background: -moz-linear-gradient(top, #6dd870 0%, #50d053 66%, #3DCB40 100%);
+    background: -webkit-linear-gradient(top, #6dd870 0%, #50d053 66%, #3DCB40 100%);
+    background: linear-gradient(to bottom, #6dd870 0%, #50d053 66%, #3DCB40 100%);
+    border-bottom: 1px solid #444444;
+  }
+  table.tablaverde thead th {
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: left;
+    border-left: 2px solid #D0E4F5;
+  }
+  table.tablaverde thead th:first-child {
+    border-left: none;
+  }
+  
+  table.tablaverde tfoot {
+    font-size: 21px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #4F7849;
+    background: -moz-linear-gradient(top, #7b9a76 0%, #60855b 66%, #4F7849 100%);
+    background: -webkit-linear-gradient(top, #7b9a76 0%, #60855b 66%, #4F7849 100%);
+    background: linear-gradient(to bottom, #7b9a76 0%, #60855b 66%, #4F7849 100%);
+    border-top: 1px solid #444444;
+  }
+  table.tablaverde tfoot td {
+    font-size: 21px;
+  }
